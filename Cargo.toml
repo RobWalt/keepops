@@ -1,0 +1,14 @@
+[package]
+name = "keepops"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+keywords = ["tuple", "map", "and_then", "extension"]
+authors = ["Robert Walter <robwalter96@gmail.com>"]
+description = "Extension traits for keeping the input of mapping functions"
+homepage = "https://github.com/RobWalt/keepops"
+repository = "https://github.com/RobWalt/keepops"
+documentation = "https://docs.rs/keepops"
+readme = "README.md"
+
+[dependencies]
