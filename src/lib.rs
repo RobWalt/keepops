@@ -1,5 +1,3 @@
-#![feature(generic_associated_types)]
-
 mod keep_and_then_single;
 mod keep_and_then_tuple;
 mod keep_map_single;
